@@ -1,7 +1,6 @@
 {
   "name": "newsbot",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "bot": "nodemon bot.js"
@@ -28,5 +27,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "description": ""
 }
